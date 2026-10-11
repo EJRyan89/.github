@@ -23,10 +23,15 @@ This code applies in project spaces and when representing the project publicly.
 
 ## Reporting and enforcement
 
-Contact the repository maintainer privately through a channel they make available to report unacceptable
-behavior. This shared code of conduct does not specify a private contact method. If the maintainer provides
-no private channel, private reporting is unavailable until they provide one. Do not publish incident details
-when requesting a reporting channel.
+To report unacceptable behavior, contact the repository maintainer privately through a channel they publish.
+If none is available, report abuse on GitHub privately to GitHub Support using its
+[abuse-reporting form](https://support.github.com/contact/report-abuse?category=report-abuse&report=other&report_type=unspecified).
+You can also use **Report content** on an issue, pull request, or comment and choose
+**Report abuse to GitHub Support** when that choice appears. On a user's profile, use **Block or Report**
+then **Report abuse**. See [GitHub's reporting instructions](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam).
+
+Reports to GitHub Support go to GitHub rather than directly to the repository maintainer. GitHub handles
+them under its Community Guidelines and Terms of Service.
 
 The maintainer reviews reports, respects the privacy of those involved, and takes appropriate action.
 Actions can include requesting a correction, removing content, or restricting participation. The response

@@ -51,5 +51,6 @@ contact channel from its maintainer. Without one, the shared policy provides no 
 
 See [GitHub's private vulnerability reporting configuration](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository).
 
-The shared code of conduct names the repository maintainer as the enforcement contact; it does not publish
-a contact method. Private conduct reporting depends on the maintainer providing a usable private channel.
+The shared code of conduct names the repository maintainer as the enforcement contact; private reports to
+the maintainer depend on a channel they publish. For abuse on GitHub, the code of conduct also provides a
+fallback to GitHub Support. GitHub handles those reports under its own policies.

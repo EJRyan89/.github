@@ -10,11 +10,8 @@ the latest supported version before reporting it.
 Use the affected repository's **Security** tab → **Report a vulnerability** to report a suspected vulnerability
 privately. Do not open a public issue.
 
-GitHub's private vulnerability reporting is available only for public repositories where the maintainer
-enables it. If that option is unavailable, contact the repository maintainer privately through a channel
-they make available. This shared policy does not specify an alternative private contact method. If the
-repository provides no private channel, there is no documented private reporting route. Do not disclose
-vulnerability details publicly.
+If that option is unavailable, contact the maintainer privately through a channel they publish.
+Do not disclose vulnerability details publicly.
 
 Include enough information to reproduce and assess the issue:
 
