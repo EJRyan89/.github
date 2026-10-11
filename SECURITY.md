@@ -7,11 +7,14 @@ the latest supported version before reporting it.
 
 ## Reporting a vulnerability
 
+Follow the affected repository's own security policy when it provides one.
+Otherwise, use the reporting routes below.
+
 Use the affected repository's **Security** tab → **Report a vulnerability** to report a suspected vulnerability
 privately. Do not open a public issue.
 
-If that option is unavailable, contact the repository maintainer privately to request a secure reporting
-channel before sharing vulnerability details.
+If that option is unavailable, contact the maintainer privately through a channel they publish.
+Do not disclose vulnerability details publicly.
 
 Include enough information to reproduce and assess the issue:
 
@@ -30,7 +33,7 @@ attribution. No response or remediation deadline is guaranteed.
 
 ## Security-sensitive areas
 
-Report issues involving unauthorized access, command injection, unsafe file access, data loss, trust-boundary
-failures, or disclosure of secrets through logs, generated files, archives, or diagnostics.
+Report privately anything involving unauthorized access, command injection, unsafe file access, data loss,
+trust-boundary failures, or disclosure of secrets through logs, generated files, archives, or diagnostics.
 
 Non-sensitive defects and feature requests go through normal GitHub issues.

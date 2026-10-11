@@ -11,7 +11,7 @@ assignees: ''
 ## What and why
 
 <!-- Describe what is missing or wrong and why it matters. Name the components, files, or symbols involved.
-     Describe what you check and link related issues and pull requests. -->
+     Summarize relevant investigation and link related issues and pull requests. -->
 
 ## Proposal
 

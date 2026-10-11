@@ -13,7 +13,7 @@ assignees: ''
 ## Reproduction
 
 <!-- Describe the smallest sequence that shows the problem, including relevant inputs and configuration.
-     Isolate which component is at fault. -->
+     If possible, identify the component involved. -->
 
 ## Expected
 
