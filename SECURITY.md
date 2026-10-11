@@ -7,6 +7,9 @@ the latest supported version before reporting it.
 
 ## Reporting a vulnerability
 
+Follow the affected repository's own security policy when it provides one.
+Otherwise, use the reporting routes below.
+
 Use the affected repository's **Security** tab → **Report a vulnerability** to report a suspected vulnerability
 privately. Do not open a public issue.
 
