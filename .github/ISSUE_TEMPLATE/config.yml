@@ -1,2 +1,5 @@
 blank_issues_enabled: false
-# Report suspected vulnerabilities through the affected repository's Security tab → Report a vulnerability.
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/EJRyan89/.github/blob/main/SECURITY.md
+    about: Read the security policy for private reporting guidance. Do not open a public issue.

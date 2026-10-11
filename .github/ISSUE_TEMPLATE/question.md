@@ -1,6 +1,6 @@
 ---
 name: Question
-about: How to install, configure, or use the project when the documentation does not explain
+about: How to install, configure, or use the project when the documentation does not cover it
 title: ''
 labels: question
 assignees: ''
@@ -13,5 +13,5 @@ assignees: ''
 
 ## What you tried
 
-<!-- Name the documents you consult and the steps or commands you try, with relevant output.
+<!-- List relevant documentation and troubleshooting steps, including commands and results.
      For setup questions, include relevant release or commit and tool versions. -->

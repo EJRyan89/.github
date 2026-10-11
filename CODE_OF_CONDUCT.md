@@ -14,8 +14,8 @@ identity, experience, or ability.
 
 ## Unacceptable behavior
 
-Harassment, threats, discriminatory language, sexual attention, personal attacks, and sharing someone else's
-private information without permission are unacceptable.
+Harassment, threats, discriminatory language, unwelcome sexual attention, personal attacks, and sharing
+someone else's private information without permission are unacceptable.
 
 ## Scope
 
@@ -23,11 +23,13 @@ This code applies in project spaces and when representing the project publicly.
 
 ## Reporting and enforcement
 
-Contact the repository maintainer privately to report unacceptable behavior. If a private contact method is
-unavailable, ask the maintainer for a private reporting channel without publishing incident details.
+Contact the repository maintainer privately through a channel they make available to report unacceptable
+behavior. This shared code of conduct does not specify a private contact method. If the maintainer provides
+no private channel, private reporting is unavailable until they provide one. Do not publish incident details
+when requesting a reporting channel.
 
 The maintainer reviews reports, respects the privacy of those involved, and takes appropriate action.
 Actions can include requesting a correction, removing content, or restricting participation. The response
 depends on the conduct, its impact, and whether it continues.
 
-Maintainers follow this code in their own participation and enforcement.
+The maintainer follows this code in their own participation and enforcement.
