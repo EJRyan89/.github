@@ -13,6 +13,7 @@ It is also the canonical source for copies kept in individual repositories.
 | `.github/ISSUE_TEMPLATE/documentation.md` | Identifies documentation gaps and the desired correction. |
 | `.github/ISSUE_TEMPLATE/question.md` | Collects usage questions, relevant documentation, and troubleshooting results. |
 | `.github/ISSUE_TEMPLATE/config.yml` | Disables blank issues and links to the shared security policy in the issue chooser. |
+| `.github/FUNDING.yml` | Links the repository's Sponsor button to the maintainer's Ko-fi page. |
 | `SECURITY.md` | Directs private vulnerability reports to the affected repository's Security tab. |
 | `CODE_OF_CONDUCT.md` | Sets participation expectations and directs enforcement reports to the maintainer. |
 | `labels.yml` | Defines the canonical shared labels and their descriptions and colors. |
@@ -29,8 +30,9 @@ GitHub uses these files in its web UI when a repository owned by this account la
 If a repository has anything in `.github/ISSUE_TEMPLATE/`, including only `config.yml`, GitHub uses that
 repository's issue template configuration and does not use the default issue templates.
 
-`pull_request_template.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SUPPORT.md`
-each fall back independently. A local copy of a file overrides only that file type. This repository supplies
+`pull_request_template.md`, `SECURITY.md`, `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SUPPORT.md`, and
+`FUNDING.yml` each fall back independently. GitHub reads a default `FUNDING.yml` only from this repository's
+`.github` folder. A local copy of a file overrides only that file type. This repository supplies
 the files listed above; it does not supply a contributing guide or support policy.
 
 See [GitHub's default community health file documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
@@ -43,6 +45,11 @@ local copies can diverge to include guidance specific to each repository. Update
 manually; nothing synchronizes them automatically.
 
 ## Repository settings
+
+Enable Sponsorships under Settings, General, Features in each repository that should show the Sponsor
+button. `FUNDING.yml` does not enable the setting, and a repository with it disabled shows no button.
+
+See [GitHub's sponsor button documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository).
 
 Enable private vulnerability reporting in each public repository that uses the security policy.
 The policy file does not enable the setting. GitHub does not offer this reporting feature for private
